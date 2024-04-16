@@ -18,5 +18,5 @@
 
 ### Database/Storage
 -SQLite plugin for flutter
-  Local Storage done with the help of different  Databases and Tables
+->Local Storage done with the help of different  Databases and Tables
 
