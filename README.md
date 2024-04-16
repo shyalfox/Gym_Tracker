@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # gym_counter
 
-A new Flutter project.
+A flutter app to Track my personal Gym progress
 
 ## Getting Started
 
