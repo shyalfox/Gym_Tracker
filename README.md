@@ -14,9 +14,9 @@
 -  Timer for Cardio/Forearms/Abs Workouut
 
 ### Coding language
--Flutter frmework  with dart (No state management use done using Stateful Widgets)
+-Flutter framework  with dart (No state management used done using Stateful Widgets)
 
 ### Database/Storage
 -SQLite plugin for flutter
-  Local Storage done with the help of diffrent tables and Databases
+  Local Storage done with the help of different  Databases and Tables
 
